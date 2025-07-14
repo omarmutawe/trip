@@ -1,0 +1,38 @@
+html{
+
+    background-image: url("./background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
+}
+body{
+    background-color: rgba(250, 235, 215, 0.459);
+    width: 80%;
+    margin:20px auto;
+padding: 20px;
+border-radius: 15px;
+}
+input,select,textarea{
+    display: block;
+    padding: 10px;
+    width: 98%;
+    border-radius: 10px;
+    border: none;
+    margin: 10px 0;
+
+}
+.i{
+    display: inline;
+
+}
+label{
+    display: block;
+
+}
+input[type="radio"],input[type="checkbox"]
+{
+    display: inline;
+    width: auto;
+    
+}
