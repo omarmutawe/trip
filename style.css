@@ -2,12 +2,12 @@ html{
 
     background-image: url("./background.webp");
     background-size: contain;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     min-height: 100vh;
 
 }
 body{
-    background-color: rgba(250, 235, 215, 0.459);
+    background-color: rgba(10, 138, 48, 0.459);
     width: 80%;
     margin:20px auto;
 padding: 20px;
@@ -16,7 +16,7 @@ border-radius: 15px;
 input,select,textarea{
     display: block;
     padding: 10px;
-    width: 98%;
+    width: 100%;
     border-radius: 10px;
     border: none;
     margin: 10px 0;
